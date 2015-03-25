@@ -10,7 +10,7 @@ O arquivo ".bpmn" é a modelagem do sistema.
 
 O arquivo ".bos" contém:
 
-interface grafica/ Telas
+interface grafica/ Telas (.xml)
 arquivos 
 Arquivos XSD 
 soap-encoding.xsd 
