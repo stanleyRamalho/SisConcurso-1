@@ -1,8 +1,8 @@
 # SisConcurso-1
 Projeto SOA
 
-Bem Vindos ao SisConcurso! Este é uma sistema de inscrição em concurso online utilizando uma metodologia SOA. Metodologia S
-OA: Metodologia para Identificar serviço candidato a compor uma aplicação SOA.
+Bem Vindos ao SisConcurso! Este é um sistema de inscrição em concurso online, utilizando uma metodologia SOA. Metodologia S
+OA: Metodologia para identificar serviços candidatos a compor uma aplicação SOA.
 
 Imagem do Modelo de Processo de Negócio: https://www.dropbox.com/s/njqk6zgs10z3nmf/BPMN-Inscri%C3%A7%C3%A3o-imagem-1.0.png?dl=0
 
